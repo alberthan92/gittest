@@ -1,4 +1,4 @@
-Git 연습 프로젝트
+Git 연습 Project
 
 박병현 내용추가
 
